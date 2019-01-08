@@ -5,7 +5,6 @@
 - Tensorflow 1.5  
 - OpenCV
 # Setup
-Make a new folder ./results  
 Download pre-train model here:https://drive.google.com/file/d/1PZPndLbIVfgVnMLsFlg6Np_qszZisvJ6/view?usp=sharing  
 And save to ./checkpoint/tr
 # Running it
