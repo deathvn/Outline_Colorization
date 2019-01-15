@@ -1,5 +1,5 @@
 # Outline Colorization  
-15520614
+15520614 - Tran Kha Phieu
 # Requirement
 - Python 3.6, numpy  
 - Tensorflow 1.5  
